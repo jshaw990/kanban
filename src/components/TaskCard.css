@@ -1,0 +1,18 @@
+.task-card {
+    background: #FFFFFF;
+    margin-bottom: 8px;
+    padding: 8px;
+    border-radius: 2px;
+    word-wrap: break-word;
+    cursor: pointer;
+    width: 90%;
+    float: left;
+}
+
+.task-card:hover {
+    background-color: #F9F3F3;
+}
+.task-remove {
+    width: 10%;
+    float: right;
+}
